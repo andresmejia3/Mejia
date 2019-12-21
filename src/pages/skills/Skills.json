@@ -1,0 +1,168 @@
+{
+  "skills": {
+
+    "Languages": {
+      "x": 0.4797010471357234,
+      "y": 0.5796502508360009,
+
+      "data": [
+        "Python",
+        "Swift",
+        "JavaScript",
+        "Java",
+        "Go",
+        "C",
+        "HTML/CSS"
+      ]
+    },
+
+    "Python": {
+      "x": 0.844345879712146,
+      "y": 0.8250979321593536,
+
+      "data": [
+        "Beautiful Soup",
+        "Selenium"
+      ]
+    },
+
+    "JavaScript/Node.js": {
+      "x": 0.3270844788677128,
+      "y": 0.19204130769740824,
+
+      "data": [
+        "React.js",
+        "React Native",
+        "Redux",
+        "Puppeteer.js",
+        "Express.js",
+        "Pixi.js",
+        "P5.js",
+        "Promises",
+        "Fetch"
+      ]
+    },
+
+    "Go": {
+      "x": 0.6543927277521691,
+      "y": 0.6486972155005866,
+
+      "data": [
+        "Gorilla Mux"
+      ]
+    },
+
+    "Java": {
+      "x": 0.8004428010798919,
+      "y": 0.4856631339013181,
+
+      "data": [
+        "Java FX",
+        "Processing 3"
+      ]
+    },
+
+    "Swift": {
+      "x": 0.8942600050865657,
+      "y": 0.20216451816592834,
+
+      "data": [
+        "Alamofire"
+      ]
+    },
+
+    "C": {
+      "x": 0.08442873343775203,
+      "y": 0.18392048049230655,
+
+      "data": [
+        "Fork Programming",
+        "Parallel Programming"
+      ]
+    },
+
+    "Databases": {
+      "x": 0.2808164727196295,
+      "y": 0.450070893433762,
+
+      "data": [
+        "MongoDB",
+        "Realm",
+        "Firebase"
+      ]
+    },
+
+    "Mobile": {
+      "x": 0.1377445526931828,
+      "y": 0.7123548436543397,
+
+      "data": [
+        "iOS/Xcode",
+        "Push Notifications",
+        "Background Tasks",
+        "React Native",
+        "ReactNavigation.js",
+        "Redux.js",
+        "Realm Mobile Database",
+        "Animations",
+        "Authentication",
+        "Localization",
+        "User Testing/Surveying",
+        "User Data Encryption"
+      ]
+    },
+
+    "Front End": {
+      "x": 0.3403315682761952,
+      "y": 0.8533583710792269,
+
+      "data": [
+        "React.js",
+        "React Native",
+        "Redux.js",
+        "Pixi.js",
+        "P5.js",
+        "Processing 3"
+      ]
+    },
+
+    "Back End": {
+      "x": 0.6031954111136456,
+      "y": 0.35846134710997246,
+
+      "data": [
+        "Heroku",
+        "Express.js",
+        "Go Gorilla Mux",
+        "Flask",
+        "Docker"
+      ]
+    },
+
+    "Algorithms & Data Structures": {
+      "x": 0.7472177670239168,
+      "y": 0.20179589902615508,
+
+      "data": [
+        "Stacks",
+        "Queues",
+        "Graphs",
+        "Trees",
+        "Linked Lists",
+        "Breadth First Search",
+        "Depth First Search"
+      ]
+    },
+
+    "Other": {
+      "x": 0.7043646175052122,
+      "y": 0.833611043191072,
+
+      "data": [
+        "Adobe Photoshop",
+        "Adobe Lightroom",
+        "Adobe Illustrator"
+      ]
+    }
+  }
+}

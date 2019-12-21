@@ -1,0 +1,38 @@
+
+:root {
+    --container-padding: 10%;
+}
+
+.am-skills {
+    margin-bottom: 5%;
+    min-height: 100vh;
+    padding-left: 5%;
+    padding-right: 5%;
+    /*clear: both;*/
+    /*height: 100%;*/
+    /*width: 100%;*/
+    /*float: left;*/
+    /*clear: both;*/
+}
+
+
+.am-skills-main-title {
+    width: 100%;
+    text-align: center;
+    font-size: 100px;
+    font-weight: bolder;
+    color: white;
+    margin: 0;
+}
+
+
+/*.am-skills-title {*/
+/*    font-size: 100px;*/
+/*    font-weight: bolder;*/
+/*    color: white;*/
+/*    margin: 0;*/
+/*}*/
+
+.am-skills-canvas {
+
+}

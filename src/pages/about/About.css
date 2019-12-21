@@ -1,0 +1,113 @@
+
+:root {
+    --container-padding: 10%;
+    --portrait-picture-size: 15%;
+
+}
+
+.am-about {
+    height: 100%;
+    width: 100%;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-bottom: 10%;
+    /*padding-top: 20px;*/
+    /*padding-left: var(--container-padding);*/
+    /*padding-right: var(--container-padding);*/
+}
+
+.am-about-main-title {
+    background-color: #2f2f2f;
+    width: 100%;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+}
+
+.am-about-profile-container {
+    overflow: auto;
+    background-color: white;
+    /*border-radius: 10px;*/
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    padding: 25px;
+    flex-direction: row;
+}
+
+.am-about-profile-header {
+    text-align: left;
+    margin-left: calc(var(--portrait-picture-size) + 2%);
+}
+
+
+.am-about-table {
+    display: table;
+    border-collapse: separate;
+    margin: 0 -1vw;
+    border-spacing: 1vw;
+}
+
+
+.am-about-table-row {
+    display: table-row;
+}
+
+.am-about-description {
+    display: table-cell;
+    text-align: left;
+    /*padding: 0 3%;*/
+    border-radius: 10px;
+    background-color: white;
+    width: 80%;
+
+    padding-left: 2vw;
+    padding-right: 2vw;
+    padding-bottom: 2vw;
+}
+
+.am-about-sidebar {
+    display: table-cell;
+    vertical-align: top;
+    border-radius: 10px;
+    background-color: white;
+
+}
+
+.am-about-hobby-list-item {
+    list-style-type: none;
+    text-align: center;
+    padding-bottom: 5%;
+}
+
+.am-about-title {
+    font-size: 45px;
+    color: white;
+    margin-bottom: 0;
+}
+
+.am-about-center {
+    text-align: center;
+}
+
+
+.am-about-portrait-picture-container {
+}
+
+.am-about-portrait-picture {
+    float: left;
+    width: var(--portrait-picture-size);
+    border-radius: 50%;
+}
+
+
+
+.am-about-profile-name {
+    font-size: 38px;
+    font-weight: bold;
+    margin-bottom: 0
+}
+
+.am-about-profile-sub-headers {
+    font-size: 20px;
+    margin-top: 0
+}
+

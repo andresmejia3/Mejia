@@ -3,9 +3,20 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@material-ui/core": "^4.3.2",
+    "@material-ui/icons": "^4.4.1",
+    "calculate-size": "^1.1.1",
+    "jquery": "^3.4.1",
+    "p5": "^0.9.0",
+    "pixi.js": "^5.1.1",
+    "quadtree-lib": "^1.0.9",
     "react": "^16.9.0",
+    "react-autobind": "^1.0.6",
     "react-dom": "^16.9.0",
-    "react-scripts": "3.1.1"
+    "react-pixi-fiber": "^0.9.3",
+    "react-scripts": "3.1.1",
+    "save": "^2.4.0",
+    "victor": "^1.1.0"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -27,5 +38,9 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "eslint": "^6.1.0",
+    "typescript": "^3.6.3"
   }
 }

@@ -1,0 +1,52 @@
+
+:root {
+    --container-padding: 10%;
+}
+
+.am-projects {
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-bottom: 10%;
+    /*margin-bottom: 20%;*/
+    /*height: 100%;*/
+    /*width: 100%;*/
+    /*float: left;*/
+    /*clear: both;*/
+}
+
+
+.am-projects-main-title {
+    width: 100%;
+    text-align: center;
+    font-size: 100px;
+    font-weight: bolder;
+    color: white;
+    margin: 0;
+}
+
+.am-projects-project-cell {
+    background-color: white;
+    padding: 2%;
+    margin-bottom: 2%;
+    border-radius: 20px;
+}
+
+.am-projects-project-cell-name {
+
+}
+
+.am-projects-project-cell-position {
+
+}
+
+.am-projects-project-cell-languages {
+
+}
+
+.am-projects-project-cell-packages {
+
+}
+
+.am-projects-project-cell-description {
+
+}
