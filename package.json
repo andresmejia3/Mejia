@@ -14,7 +14,7 @@
     "react-autobind": "^1.0.6",
     "react-dom": "^16.9.0",
     "react-pixi-fiber": "^0.9.3",
-    "react-scripts": "3.1.1",
+    "react-scripts": "5.0.1",
     "save": "^2.4.0",
     "victor": "^1.1.0"
   },
